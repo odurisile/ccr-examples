@@ -9,7 +9,7 @@ This directory will eventually contain complex containerized application setups 
 | Topic                          | Description |
 |--------------------------------|-------------|
 | [container-mod](./container-mod)       | Examples for building LMOD modules from container images [README](./container-mod/README.md) |
-
+| [building-containers](./building-containers)       | Examples for building LMOD modules from container images [README](./building-containers/README.md) |
 ## Additional Information
 
 - The [Slurm README](../../slurm/README.md) provides details on general Slurm usage.
